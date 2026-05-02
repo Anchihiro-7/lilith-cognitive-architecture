@@ -21,7 +21,7 @@ accumulated memory.
 This repository contains the modular systems that form the cognitive
 layer around a base language model:
 
-- **RECR** : Reverse Engineered Reasoning. Verifies outputs by working
+- **REER** : Reverse Engineered Reasoning. Verifies outputs by working
   backwards from generated responses to check consistency with identity,
   memory, and factual grounding.
 
